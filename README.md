@@ -1,0 +1,4 @@
+goagent
+=======
+
+goagent proxy setting.
