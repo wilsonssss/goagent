@@ -30,7 +30,8 @@ var Proxy = {
 	 "developer.mozilla.org":true,
 	 "laravel.io":true,
 	 "googlecode.com":true,
-	 "html5index.org":true
+	 "html5index.org":true,
+	 "maven.org":true
 };
 
 function FindProxyForURL(url, host) {
