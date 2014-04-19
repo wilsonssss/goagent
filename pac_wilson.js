@@ -33,7 +33,9 @@ var Proxy = {
 	 "html5index.org":true,
 	 "maven.org":true,
 	 "googlesource.com":true,
-	 "github.com":true
+	 "github.com":true，
+	 "jetbrains.com":true,
+	 "jayway.com":true
 };
 
 function FindProxyForURL(url, host) {
